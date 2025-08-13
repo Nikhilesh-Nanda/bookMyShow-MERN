@@ -1,0 +1,50 @@
+.main-comp{
+    display: flex;
+    height: 600px;
+    width: 800px;
+    justify-content: center;;
+    border: 2px solid black ;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.parent{
+    background-color: lightcoral;
+}
+img{
+    height: 602px;
+    width:458px;
+    float: right;
+    border: 1px solid black;
+}
+button:hover{
+    background-color:lightsalmon;
+}
+button{
+    border-radius: 5px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+tr,td,table{
+    display: table;
+    float:left
+}
+p{
+    display: inline;
+    background-color:red;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+.bookButton{
+    height: 50px;
+    width: 200px;
+    margin-top: 550px;
+    background-color:lightskyblue;
+    border-radius: 0px;
+    cursor: pointer;
+}
+body{
+    background-color:lightcoral;
+}
