@@ -60,3 +60,11 @@ Install mongoDB
 I’m a 3rd-year engineering student at KIIT, passionate about MERN Development and continuously expanding my technical skill set. With a strong foundation in C++, Java, JavaScript, C, OOPs, and SQL, I enjoy translating concepts into real-world projects and tackling practical challenges. 
 
 I’m a constant learner, always eager to embrace new technologies and deepen my expertise. Ready to seize hands-on opportunities, I thrive in dynamic environments where I can contribute, collaborate, and further grow as a developer.
+
+## 🔗 Links
+
+Links For My Profile. Let's Connect!!               
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhileshnanda)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NandaNikhilesh?s=09)
+
